@@ -1,0 +1,94 @@
+Resequencing Summary Report
+Note: PCR duplicate reads are not removed from statistics. Results are not directly comparable to Picard metrics.
+
+Sample ID,LP9006282-DNA_A01
+Sample Name,LP9006282-DNA_A01
+Runfolder,/scratch/LP9006282-DNA_A01_WF4807/RunData/141031_HSX177_0047_AH00H1BBXX
+Reference Genome,Homo sapiens (Ensembl GRCh37)
+Paired End,True
+Diversity,1465769728
+Total PF reads,810479300
+Total aligned read 1,389989560
+Total aligned read 2,378431220
+Percent aligned read 1,96.2%
+Percent aligned read 2,93.4%
+Percent duplicate paired reads,11.6%
+Total PF bases,121545731971
+Total PF bases read 1,60773016423
+Total PF bases read 2,60772715548
+Percent Q30 bases,81.5%
+Percent Q30 bases read 1,88.5%
+Percent Q30 bases read 2,74.5%
+Total aligned bases read 1,57316632829
+Total aligned bases read 2,54163648905
+Percent aligned bases read 1,94.3%
+Percent aligned bases read 2,89.1%
+Mismatch rate read 1,1.24%
+Mismatch rate read 2,2.26%
+Mean coverage,35.9
+Fragment length median,475
+Fragment length min,131
+Fragment length max,851
+Fragment length SD,121
+SNVs (All),3904234
+SNVs,3588500
+SNV Het/Hom ratio,1.6
+SNV Ts/Tv ratio,2.1
+SNVs (Percent found in dbSNP),98.9%
+SNVs in genes,1673329
+SNVs in exons,50380
+SNVs in coding regions,22009
+SNVs in Mature miRNA,76
+SNVs in UTR regions,28371
+SNVs in splice site regions,3234
+Stop gained SNVs,72
+Stop lost SNVs,20
+Non-synonymous SNVs,10405
+Synonymous SNVs,11511
+Indels (All),927217
+Indels,620682
+Indel Het/Hom ratio,2.1
+Indels (Percent found in dbSNP),81.4%
+Insertions (All),474990
+Insertions,308466
+Insertion Het/Hom ratio,1.8
+Insertions (Percent found in dbSNP),79.8%
+Insertions in genes,149133
+Insertions in exons,3234
+Insertions in coding regions,255
+Insertions in Mature miRNA,6
+Insertions in UTR regions,2979
+Insertions in splice site regions,341
+Stop gained Insertions,0
+Stop lost Insertions,0
+Frameshift Insertions,102
+Non-synonymous Insertions,147
+Deletions (All),452227
+Deletions,312216
+Deletion Het/Hom ratio,2.5
+Deletions (Percent found in dbSNP),83.0%
+Deletions in genes,150887
+Deletions in exons,3097
+Deletions in coding regions,278
+Deletions in Mature miRNA,26
+Deletions in UTR regions,2819
+Deletions in splice site regions,320
+Stop gained Deletions,0
+Stop lost Deletions,0
+Frameshift Deletions,89
+Non-synonymous Deletions,179
+SV Insertions,1875
+SV Insertions in genes,898
+SV Percent Insertions in genes,47.8933333
+SV Deletions,4538
+SV Deletions in genes,2320
+SV Percent Deletions in genes,51.1238431
+SV Tandem Duplications,109
+SV Tandem Duplications in genes,52
+SV Percent Tandem Duplications in genes,47.7064220
+SV Inversions,367
+SV Inversions in genes,278
+SV Percent Inversions in genes,75.7493188
+CNV,78
+CNV in genes,43
+CNV Percent in genes,55.1282051

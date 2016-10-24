@@ -1,0 +1,5 @@
+test_genome  derived from
+RARET20001   /genomes/resources/platinum_genomes/20150219/LP9006281-DNA_A01                                  (NorthStar V2, father, platinum genome NA12877, extracted region 6:91000000-91500000)
+RARET20002   /genomes/resources/platinum_genomes/20150219/LP9006282-DNA_A01                                  (NorthStar V2, mother, platinum genome NA12878, extracted region 6:91000000-91500000)
+RARET20003   /genomes/resources/platinum_genomes/20150219/LP9006283-DNA_A01                                  (NorthStar V2, daughter, platinum genomes NA12879, extracted region 6:91000000-91500000)
+
