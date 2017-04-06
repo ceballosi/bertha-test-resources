@@ -1,0 +1,17 @@
+[Header]
+Workflow,Resequencing
+
+[Settings]
+FastqInput,0
+MetricsDeliverable,GeL
+IsaacOptions,--bam-exclude-tags=none
+VariantCaller,None
+RunHLATyping,0
+RunSVDetection,0
+RunCNVDetection,0
+RunExpansionHunter,0
+CompressBam,0
+
+[Data]
+SampleID,SampleName,GenomeFolder,InputBam
+#CANCER_ID#,#CANCER_ID#,/genomes/resources/genomeref/Illumina/Homo_sapiens/NCBI/GRCh38Decoy/Sequence/WholeGenomeFasta,#CANCER_BAM_PATH#

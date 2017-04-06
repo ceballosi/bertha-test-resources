@@ -1,0 +1,21 @@
+[Header]
+Workflow,Resequencing
+
+[Settings]
+RetainIntermediateCNVFiles,1
+MetricsDeliverable,GeL
+TranscriptSource,Ensembl
+SVAnnotation,Nirvana
+RunHLATyping,1
+CustomParametersisaac-align,--per-tile-tls 0
+RunSVDetection,1
+RunCNVDetection,1
+VariantAnnotation,Nirvana
+RunExpansionHunter,1
+FastqInput,0
+CompressBam,0
+
+[Data]
+SampleID,SampleName,GenomeFolder,InputBam
+#NORMAL_ID#,#NORMAL_ID#,/genomes/resources/genomeref/Illumina/Homo_sapiens/NCBI/GRCh38Decoy/Sequence/WholeGenomeFasta,#NORMAL_BAM_PATH#
+
