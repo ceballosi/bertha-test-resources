@@ -1,0 +1,16 @@
+md5sum.txt
+#NORMAL_ID#_#CANCER_ID#.summary.csv
+#NORMAL_ID#_#CANCER_ID#.report.pdf
+#CANCER_ID#/Assembly/#CANCER_ID#.bam
+#CANCER_ID#/Assembly/#CANCER_ID#.bam.bai
+#CANCER_ID#/#CANCER_ID#.summary.csv
+#CANCER_ID#/#CANCER_ID#.report.pdf
+SomaticVariations/#NORMAL_ID#_#CANCER_ID#.somatic.json.gz
+SomaticVariations/#NORMAL_ID#_#CANCER_ID#.somatic.SV.json.gz
+SomaticVariations/#NORMAL_ID#_#CANCER_ID#.somatic.SV.vcf.gz
+SomaticVariations/#NORMAL_ID#_#CANCER_ID#.somatic.SV.vcf.gz.tbi
+SomaticVariations/#NORMAL_ID#_#CANCER_ID#.somatic.vcf.gz
+SomaticVariations/#NORMAL_ID#_#CANCER_ID#.somatic.vcf.gz.tbi
+SomaticVariations/#NORMAL_ID#_#CANCER_ID#.somatic.CNV.CoverageAndVariantFrequency.txt
+SomaticVariations/VFResultsG1_P1.txt.gz
+SomaticVariations/G1_P1.partitioned
