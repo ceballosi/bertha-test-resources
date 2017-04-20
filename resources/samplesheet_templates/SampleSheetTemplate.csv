@@ -17,5 +17,5 @@ CompressBam,0
 
 [Data]
 SampleID,SampleName,GenomeFolder,InputBam
-#NORMAL_ID#,#NORMAL_ID#,/genomes/resources/genomeref/Illumina/Homo_sapiens/NCBI/GRCh38Decoy/Sequence/WholeGenomeFasta,#NORMAL_BAM_PATH#
+#SAMPLE_ID,#SAMPLE_ID,#REFERENCE_SEQUENCE_DIR,#BAM_PATH
 
