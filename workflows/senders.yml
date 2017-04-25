@@ -1,0 +1,4 @@
+# This file should be installed in the workflows resources directory
+# e.g. /genomes/resources/bertha/workflows
+Illumina: default_1-4-0
+Scottish Genome Project: remapping_1-0-0
