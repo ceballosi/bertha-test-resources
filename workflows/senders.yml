@@ -1,5 +1,5 @@
 # This file should be installed in the workflows resources directory
 # e.g. /genomes/resources/bertha/workflows
 illumina: default_1-4-1
-edgenomics: remapping_1-0-0
+edgenomics: fastq_1-0-0
 bertha: default_1-4-1
