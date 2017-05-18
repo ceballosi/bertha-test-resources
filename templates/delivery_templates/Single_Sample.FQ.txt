@@ -1,0 +1,3 @@
+md5sum.txt
+fastq/#SAMPLE_ID#_R1.fastq.gz
+fastq/#SAMPLE_ID#_R2.fastq.gz
