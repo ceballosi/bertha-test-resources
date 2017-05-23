@@ -16,6 +16,6 @@ FastqInput,0
 CompressBam,0
 
 [Data]
-SampleID,SampleName,GenomeFolder,InputBam
-#SAMPLE_ID,#SAMPLE_ID,#REFERENCE_SEQUENCE_DIR,#BAM_PATH
+SampleID,SampleName,GenomeFolder,#INPUT_PATH_HEADER
+#SAMPLE_ID,#SAMPLE_ID,#REFERENCE_SEQUENCE_DIR,#INPUT_PATH
 
